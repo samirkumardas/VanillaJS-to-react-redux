@@ -7,7 +7,8 @@ const config = {
   output: {
     library: 'bookAPI',
     path: path.resolve(__dirname, 'dist'),
-    filename: 'app.js'
+    filename: 'app.js',
+    libraryTarget: 'umd'
   },
   module: {
     rules: [

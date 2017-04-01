@@ -5,7 +5,8 @@ const path = require('path');
 const config = {
   entry: './index.js',
   output: {
-    filename: 'app.js'
+    filename: 'app.js',
+    libraryTarget: 'umd'
   },
   plugins: [
     new HtmlWebpackPlugin({template: './index.html'})
