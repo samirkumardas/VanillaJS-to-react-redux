@@ -50,7 +50,8 @@ class BookForm extends Component {
 
 BookForm.propTypes = {
 	formVisibitly: PropTypes.bool.isRequired,
-	formData: PropTypes.object
+	formData: PropTypes.object,
+	saveBook: PropTypes.func.isRequired
 };
 
 export default BookForm;
