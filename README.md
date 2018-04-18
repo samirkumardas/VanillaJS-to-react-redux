@@ -1,4 +1,4 @@
-**What about it?**
+##What about it?
 
 It is a simple demo project where it has implemented in four different ways aiming to show the difference among them. It will help new developers who just step into redux-react stack to understand the flow of redux and how it is related with react. I have implement same project in following approaches:
 
@@ -7,7 +7,7 @@ It is a simple demo project where it has implemented in four different ways aimi
  3. React
  4. and finally React-redux 
 
-**Demo**
+##Demo
 
 Final version that has been developed with react-redux can be checked here https://samirkumardas.github.io/VanillaJS-to-react-redux/
 
